@@ -1,0 +1,1 @@
+Small networks project where a client can connect to a server through a socket and request text files (can work for majority of other file types).When requested,the server sends the data to the client.
